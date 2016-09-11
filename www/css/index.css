@@ -1,0 +1,21 @@
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin:0px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+}
+.uploadBtn {
+    margin-top: 20px;
+    background-color: None;
+    font-size: 15px;
+}
+.navigation {
+    font-weight: bold;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 10px;
+}
