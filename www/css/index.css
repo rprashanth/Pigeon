@@ -6,7 +6,7 @@ h1 {
     padding:0px;
     text-align:center;
 }
-.uploadBtn {
+button {
     margin-top: 20px;
     background-color: None;
     font-size: 15px;
